@@ -12,6 +12,6 @@
         "id": "ecdsa-koblitz-pubkey:0x3133acDf7efcDBFB4dc368F4470Bc1bc8364a12f",
         "created": "2020-01-11T15:42:30.221512+00:00"
     }],
-    "revocationList": "https://www.blockcerts.org/samples/2.0/revocation-list-testnet.json",
+    "revocationList": "https://raw.githubusercontent.com/ransom12/test/master/revocation_list.json",
     "type": "Profile"
 }
