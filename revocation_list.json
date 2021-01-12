@@ -1,0 +1,15 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://raw.githubusercontent.com/ransom12/test/master/revocation_list.json",
+    "type": "RevocationList",
+    "issuer": "https://raw.githubusercontent.com/ransom12/test/master/issuer.json",
+    "revokedAssertions": [{
+            "id": "urn:uuid:70138483-1eb9-44d9-9898-75ff7ca16a82",
+            "revocationReason": "Honor code violation"
+        },
+        {
+            "id": "urn:uuid:1d2e56e9-036a-4dac-a164-e00db51eac6b",
+            "revocationReason": "Issued in error."
+        }
+    ]
+}
